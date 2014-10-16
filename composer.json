@@ -1,6 +1,7 @@
 {
     "name": "owlgrin/plus",
-    "description": "",
+    "description": "The wrapper around Laravel for custom needs.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Mohit Mamoria",
