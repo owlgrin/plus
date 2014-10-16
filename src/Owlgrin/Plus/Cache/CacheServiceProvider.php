@@ -1,4 +1,4 @@
-<?php namespace Plus\Cache;
+<?php namespace Owlgrin\Plus\Cache;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Cache\Repository;
