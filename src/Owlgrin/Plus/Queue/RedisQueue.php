@@ -1,4 +1,4 @@
-<?php namespace Plus\Queue;
+<?php namespace Owlgrin\Plus\Queue;
 
 use Illuminate\Redis\Database;
 use Illuminate\Queue\Jobs\RedisJob;

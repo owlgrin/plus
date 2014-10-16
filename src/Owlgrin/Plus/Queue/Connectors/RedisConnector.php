@@ -1,7 +1,7 @@
-<?php namespace Plus\Queue\Connectors;
+<?php namespace Owlgrin\Plus\Queue\Connectors;
 
 use Illuminate\Redis\Database;
-use Plus\Queue\RedisQueue;
+use Owlgrin\Plus\Queue\RedisQueue;
 use Illuminate\Queue\Connectors\ConnectorInterface;
 
 class RedisConnector implements ConnectorInterface {

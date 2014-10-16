@@ -1,7 +1,7 @@
-<?php namespace Plus\Queue;
+<?php namespace Owlgrin\Plus\Queue;
 
 use Illuminate\Support\ServiceProvider;
-use Plus\Queue\Connectors\RedisConnector;
+use Owlgrin\Plus\Queue\Connectors\RedisConnector;
 
 class QueueServiceProvider extends ServiceProvider {
 	
